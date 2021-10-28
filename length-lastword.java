@@ -1,3 +1,5 @@
+//runtime: 0ms
+
 class Solution {
     public int lengthOfLastWord(String s) {
         
