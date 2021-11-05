@@ -1,11 +1,12 @@
-/* arranging coins to build a staircase but only return the
+/* 
+*  arranging coins to build a staircase but only return the
 *  number of rows that can fulfill a staircase, so incomplete
-*  staircases do not count towards the number of rows.
+*  staircases don't count.
 */
 
 class Solution {
     public int arrangeCoins(int n) {
-                int coinsTotal = n;
+        int coinsTotal = n;
         int total = 0;
         int rows = 0;
         int i = 0;
