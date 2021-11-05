@@ -6,6 +6,7 @@
 
 class Solution {
     public int arrangeCoins(int n) {
+        
         int coinsTotal = n;
         int total = 0;
         int rows = 0;
