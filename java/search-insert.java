@@ -1,4 +1,4 @@
-// 0ms solution
+// runtime 0ms solution
 
 class Solution {
     public int searchInsert(int[] nums, int target) {
